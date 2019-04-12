@@ -12,3 +12,5 @@ and also it the first demo too.
 8.	Apply the normalization rules - Apply the data normalization rules to see if tables are structured correctly. Adjust the tables, as needed.
 Normalization[edit]
 
+in this final project , we have to improve some essesntial parts.
+
